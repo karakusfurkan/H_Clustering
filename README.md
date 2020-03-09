@@ -1,4 +1,4 @@
-KMeans Example About Clustering Clients in Python
+Hierarchical Clustering Example About Clustering Clients in Python
 
 dendrogram result
 
